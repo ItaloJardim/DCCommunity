@@ -1,4 +1,4 @@
-* {
+c* {
     margin: 0px auto;
 
 }
@@ -296,7 +296,7 @@ p.fonte {
     font-style: italic;
     font-size: 16px;
 }
-@media only screen and (max-width:600px) {
+@media only screen and (max-device-width:600px) {
  div.menucel {
     display: block;
     flex: 10%;
