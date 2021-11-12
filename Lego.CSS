@@ -88,5 +88,7 @@ iframe.Imagem {
     height: 50vw;
     width: 80%;
 }
-
+    div.meio {
+    width: 100%;
+    }
 }
